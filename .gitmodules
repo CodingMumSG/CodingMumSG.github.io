@@ -1,0 +1,3 @@
+[submodule "batch1"]
+	path = batch1
+	url = https://github.com/IOInspire/SGCodingMum
