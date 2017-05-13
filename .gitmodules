@@ -1,3 +1,6 @@
 [submodule "batch1"]
 	path = batch1
 	url = https://github.com/IOInspire/SGCodingMum
+[submodule "batch2"]
+	path = batch2
+	url = https://github.com/CodingMumSG/CodingMumSGBatch2.git
