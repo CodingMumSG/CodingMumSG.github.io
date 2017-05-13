@@ -4,3 +4,4 @@
 [submodule "batch2"]
 	path = batch2
 	url = https://github.com/CodingMumSG/CodingMumSGBatch2.git
+	branch = master
